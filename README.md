@@ -2,7 +2,7 @@
 
 Semester-long capstone for Statistics II: Data Analytics.
 
-## Project Structure
+## Project Structure  
 
 - **code/** — Python scripts and notebooks. Use `config_paths.py` for paths.
 - **data/raw/** — Original data (read-only)
